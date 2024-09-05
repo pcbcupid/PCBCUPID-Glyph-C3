@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-C3-MINI-1-N4")(type "KiCad")(uri "/home/srini/Documents/Hardware/PCBCUPID-ESP32C3/Kicad_Library/Symbols/ESP32-C3-MINI-1-N4.kicad_sym")(options "")(descr ""))
+)
